@@ -122,4 +122,4 @@ bank-churn-analysis/
 ## Author
 
 **Gehad Khaled Mohamed** · Junior Data Analyst
-[LinkedIn]((https://www.linkedin.com/in/gehad-khaled) · gehad.khaled.work@gmail.com
+gehad.khaled.work@gmail.com
