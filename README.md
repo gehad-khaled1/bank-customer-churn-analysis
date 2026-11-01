@@ -27,7 +27,7 @@ The goal of this project is to analyze customer demographic and account patterns
 
 | Item | Detail |
 |---|---|
-| Source | Bank Customer Churn dataset on Kaggle:| (https://www.kaggle.com/datasets/gehadkhaled1/bank-customer-churn-dataset) |
+| Source | Bank Customer Churn dataset on Kaggle:|(https://www.kaggle.com/datasets/gehadkhaled1/bank-customer-churn-dataset)|
 | Size | 10,000 customer records |
 | Grain | One row per customer (a single snapshot with no time dimension) |
 | Fields used | country, gender, age, products_number, active_member, account balance, churn flag |
