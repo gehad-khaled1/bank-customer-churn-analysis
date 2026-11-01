@@ -4,7 +4,7 @@
 
 An end-to-end analysis of 10,000 retail bank customers to find out **who leaves, where, and how much money is affected**, and to turn those patterns into practical retention recommendations.
 
-![Bank Customer Churn Dashboard](Dashboard.png
+![Bank Customer Churn Dashboard](dashboard.png
 )
 
 ---
